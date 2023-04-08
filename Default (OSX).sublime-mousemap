@@ -1,0 +1,10 @@
+// Keep file name & path is `Library/Application\ Support/Sublime\ Text/Packages/User/`
+[
+    {
+        "button": "button1", 
+        "count": 1, 
+        "modifiers": ["super"],
+        "press_command": "drag_select",
+        "command": "goto_definition"
+    }
+]
